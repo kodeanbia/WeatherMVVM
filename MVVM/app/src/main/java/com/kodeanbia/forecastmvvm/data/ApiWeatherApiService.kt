@@ -1,7 +1,7 @@
 package com.kodeanbia.forecastmvvm.data
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
-import com.kodeanbia.forecastmvvm.data.response.CurrentWeatherRespone
+import com.kodeanbia.forecastmvvm.data.db.entity.network.response.CurrentWeatherRespone
 import kotlinx.coroutines.Deferred
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

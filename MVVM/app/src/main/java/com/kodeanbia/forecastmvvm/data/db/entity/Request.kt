@@ -1,4 +1,4 @@
-package com.kodeanbia.forecastmvvm.data.response
+package com.kodeanbia.forecastmvvm.data.db.entity
 
 
 import com.google.gson.annotations.SerializedName
